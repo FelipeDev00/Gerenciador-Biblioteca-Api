@@ -1,4 +1,4 @@
 package com.felipe.gerenciador_api.model.entity;
 
-public class Author {
+public class MagazineEntity {
 }
